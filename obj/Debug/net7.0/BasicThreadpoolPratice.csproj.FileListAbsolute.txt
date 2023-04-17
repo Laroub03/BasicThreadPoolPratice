@@ -1,0 +1,15 @@
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/obj/Debug/net7.0/BasicThreadpoolPratice.csproj.AssemblyReference.cache
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/obj/Debug/net7.0/BasicThreadpoolPratice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/obj/Debug/net7.0/BasicThreadpoolPratice.AssemblyInfoInputs.cache
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/obj/Debug/net7.0/BasicThreadpoolPratice.AssemblyInfo.cs
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/obj/Debug/net7.0/BasicThreadpoolPratice.csproj.CoreCompileInputs.cache
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/bin/Debug/net7.0/BasicThreadpoolPratice
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/bin/Debug/net7.0/BasicThreadpoolPratice.deps.json
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/bin/Debug/net7.0/BasicThreadpoolPratice.runtimeconfig.json
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/bin/Debug/net7.0/BasicThreadpoolPratice.dll
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/bin/Debug/net7.0/BasicThreadpoolPratice.pdb
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/obj/Debug/net7.0/BasicThreadpoolPratice.dll
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/obj/Debug/net7.0/refint/BasicThreadpoolPratice.dll
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/obj/Debug/net7.0/BasicThreadpoolPratice.pdb
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/obj/Debug/net7.0/BasicThreadpoolPratice.genruntimeconfig.cache
+/Users/ayoublaroub/projects/BasicThreadpoolPratice/BasicThreadpoolPratice/obj/Debug/net7.0/ref/BasicThreadpoolPratice.dll
